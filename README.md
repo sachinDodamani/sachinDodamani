@@ -4,7 +4,7 @@
 
 
 
-
+![Sachin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachinDodamani&count_private=true&theme=aura&show_icons=true)
 
 <!---
 sachinDodamani/sachinDodamani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
